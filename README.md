@@ -5,7 +5,7 @@ It serves as both my **personal study log** and a **reference library** I can re
 
 ---
 
-## Learning Philosophy
+## 01. Learning Philosophy
 
 I learn each language **from first principles**, following its official guides (e.g. MDN for JavaScript, TypeScript Handbook, React Docs).  
 Every folder focuses on *practical understanding over memorization* — each concept is paired with runnable code examples and concise notes written in my own words.
@@ -14,7 +14,7 @@ Every folder focuses on *practical understanding over memorization* — each con
 
 ---
 
-## Folder Structure
+## 02. Folder Structure
 
 | Folder | Source | Focus |
 |--------|---------|-------|
@@ -30,7 +30,7 @@ Each folder contains:
 
 ---
 
-## 🧩 Example Commit Messages
+## 03. Example Commit Messages
 - feat(js): add example of closure with counter
 - fix(react): correct dependency in useEffect
 - docs(ts): explain difference between interface and type
@@ -38,7 +38,7 @@ Each folder contains:
 
 ---
 
-## 🧠 Learning Goals
+## 04. Learning Goals
 
 - Build deep, language-level intuition (not just syntax familiarity)  
 - Practice debugging and refactoring early  
@@ -47,7 +47,7 @@ Each folder contains:
 
 ---
 
-## 🪴 Progress Overview
+## 05. Progress Overview
 
 | Language | Status | Focus Area |
 |-----------|---------|-------------|
@@ -57,7 +57,7 @@ Each folder contains:
 
 ---
 
-## 🧰 How to Run
+## 06. How to Run
 
 Clone the repo and run examples locally:
 ```bash
