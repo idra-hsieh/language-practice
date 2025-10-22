@@ -61,7 +61,7 @@ Each folder contains:
 
 Clone the repo and run examples locally:
 ```bash
-git clone https://github.com/yourusername/language-practice.git
+git clone https://github.com/idra-hsieh/language-practice.git
 cd javascript-foundations/02-intermediate
 node example.js
 
