@@ -4,9 +4,13 @@
 
 function MyButton() {
     return (
-        <button>
-            {"I'm a button"}
-        </button>
+        // component can[t return multiple jsx tags, have to wrap them into a shared parent
+        <>
+            <p>Hello there. <br />How do you do?</p>
+            <button>
+                {"I'm a button"}
+            </button>
+        </>
     );
 }
 
