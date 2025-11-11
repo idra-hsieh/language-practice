@@ -1,6 +1,7 @@
 'use client';
 
 // remember info and display
+// (built-in) hooks: functions starting with use
 import { useState } from "react";
 
 export default function MyApp() {
