@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.round {
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 4px 6px;
+  border: 1px solid #333;
+  background: #f0f0f0;
+  cursor: pointer;
+  transition: background 0.2s;
+}
